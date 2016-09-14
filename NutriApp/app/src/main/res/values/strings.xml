@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NutriApp</string>
+    <string name="menu">Menú Principal</string>
+    <string name="imc">IMC</string>
+    <string name="altura">Altura :</string>
+    <string name="peso">Peso :</string>
+    <string name="calcularIMC">Calcular</string>
+    <string name="resultadoIMC">Tu IMC es: </string>
+    <string name="ingresaAltura">Ingresa la Altura </string>
+    <string name="ingresaPeso">Ingresa el Peso </string>
+
+</resources>
